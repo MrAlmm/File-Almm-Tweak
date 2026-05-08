@@ -12,7 +12,7 @@
 * **Privacy & Debloat:** Removes unnecessary background services to free up system resources.
 
 ## 🛠️ How to Use
-1. Go to the [Releases](https://github.com/Mohamed-ALMM/File-Almm-Tweak/releases) section.
+1. Go to the [Releases]([https://github.com/Mohamed-ALMM/File-Almm-Tweak/releases](https://github.com/MrAlmm/File-Almm-Tweak/releases/tag/v1.0)) section.
 2. Download the latest `ALMM_TWEAK.zip`.
 3. Extract the folder to your desktop.
 4. Right-click `ALMM TWEAK.exe` and select **Run as Administrator**.
