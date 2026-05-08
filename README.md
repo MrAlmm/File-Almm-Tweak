@@ -1,32 +1,31 @@
 # File-Almm-Tweak
 # 🚀 ALMM TWEAK | Ultimate Windows Performance Optimizer
 
-**ALMM TWEAK** is a lightweight, high-performance optimization tool designed to minimize system latency, boost FPS, and provide a smoother gaming experience. Built with precision for competitive gamers.
+**ALMM TWEAK** is a professional, lightweight tool designed to reduce system latency, boost FPS, and optimize Windows for a competitive gaming experience.
 
 ---
 
 ## 🔥 Key Features
-* **Ultimate ALMM Power Plan:** Unlocks the hidden performance potential of your CPU.
-* **Low Latency Engine:** Fine-tuned Registry tweaks to reduce input lag and system interrupts.
-* **Memory Management:** Advanced RAM cleaning and standby list optimization.
-* **Privacy & Debloat:** Removes unnecessary background services to free up system resources.
+* **Ultimate ALMM Power Plan:** Unlocks maximum CPU performance.
+* **Low Latency Engine:** Optimized Registry tweaks to minimize input lag.
+* **Memory Management:** Advanced RAM cleaning for smoother gameplay.
+* **System Cleanup:** Removes unnecessary background processes.
 
-## 🛠️ How to Use
-1. Go to the [Releases]([https://github.com/Mohamed-ALMM/File-Almm-Tweak/releases](https://github.com/MrAlmm/File-Almm-Tweak/releases/tag/v1.0)) section.
-2. Download the latest `ALMM_TWEAK.zip`.
-3. Extract the folder to your desktop.
-4. Right-click `ALMM TWEAK.exe` and select **Run as Administrator**.
-5. Follow the on-screen instructions to apply the optimizations.
+## 🛠️ Installation & Usage
+1. Download the latest release: [ALMM TWEAK v1.0](https://github.com/MrAlmm/File-Almm-Tweak/releases/tag/v1.0)
+2. Extract the **.zip** file to your desktop.
+3. Right-click `ALMM TWEAK.exe` and select **Run as Administrator**.
+4. Follow the menu instructions to apply your desired tweaks.
 
-## 📊 Performance Impact
-* **Lower Frame Times:** Smoother gameplay with fewer micro-stutters.
-* **Input Lag Reduction:** Faster mouse and keyboard response.
-* **Higher FPS:** Noticeable gains in titles like Fortnite, Valorant, and PUBG.
+## 📊 Expected Results
+* **Higher FPS** in titles like Fortnite, Valorant, and PUBG.
+* **Zero Micro-Stutters** due to optimized standby list management.
+* **Faster System Response** for overall daily tasks.
 
 ---
 
 ## ⚠️ Disclaimer
-*This tool modifies system settings and registry keys. While these tweaks are tested, use them at your own risk. It is highly recommended to create a **System Restore Point** before applying any changes.*
+*This tool modifies system registry settings. While tested and safe, please use it at your own risk. Creating a **System Restore Point** before use is highly recommended.*
 
 ---
-**Developed by Mohamed | Project: ALMM TWEAK 2026**
+**Developed by Mohamed | © 2026 ALMM Project**
